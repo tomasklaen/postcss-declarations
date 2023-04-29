@@ -29,3 +29,5 @@ module.exports = (groups) => {
 		},
 	};
 };
+
+module.exports.postcss = true;
