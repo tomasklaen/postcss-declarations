@@ -1,6 +1,6 @@
 {
 	"name": "postcss-declarations",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "PostCSS plugin to use declarations from JS in CSS",
 	"main": "index.js",
 	"scripts": {
